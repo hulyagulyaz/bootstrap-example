@@ -1,0 +1,59 @@
+body {
+    background-color: #c5c9ce;
+}
+
+.navbar-menu {
+    background-color: gray;
+
+    
+}
+
+.menu a {
+    color: black;
+    padding: 0px 15px;
+}
+
+.navbar-menu h1 {
+    float: left;
+    display: inline-block;
+    color: brown;
+}
+
+.menu {
+    display: inline-block;
+    margin: 20px;
+    
+}
+
+.title {
+    margin: 50px;
+    text-align: center;
+    color: brown;
+}
+.article {
+    color: black;
+    display: block;
+    text-align: center;
+}
+.main-list {
+    display: inline-block;
+}
+.page2-title {
+    text-align: left;
+}
+.button-wrapper button {
+    background-color: blue;
+    color: white
+    
+}
+.button-wrapper {
+    display: block;
+    text-align: center;
+}
+
+.card-img-top {
+    padding: 5px;
+}
+.card {
+    margin-bottom: 30px;
+}
